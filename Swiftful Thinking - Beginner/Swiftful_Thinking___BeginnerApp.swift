@@ -3,7 +3,7 @@
 import SwiftUI
 
 @main
-struct ___PACKAGENAME:identifier___App: App {
+struct Swiftful_Thinking_Beginner: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
