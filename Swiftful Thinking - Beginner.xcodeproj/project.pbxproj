@@ -12,6 +12,7 @@
 		87508DB22739D251003993C2 /* Gradients.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87508DB12739D251003993C2 /* Gradients.swift */; };
 		876FA09E273E769000DCC2EE /* Icons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 876FA09D273E769000DCC2EE /* Icons.swift */; };
 		876FA0A0273E79B900DCC2EE /* Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = 876FA09F273E79B900DCC2EE /* Images.swift */; };
+		876FA0A2273E7DA800DCC2EE /* Frames.swift in Sources */ = {isa = PBXBuildFile; fileRef = 876FA0A1273E7DA800DCC2EE /* Frames.swift */; };
 		87EAE2DE2739C68400AD31E2 /* Swiftful_Thinking___BeginnerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87EAE2DD2739C68400AD31E2 /* Swiftful_Thinking___BeginnerApp.swift */; };
 		87EAE2E02739C68400AD31E2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87EAE2DF2739C68400AD31E2 /* ContentView.swift */; };
 		87EAE2E22739C68500AD31E2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 87EAE2E12739C68500AD31E2 /* Assets.xcassets */; };
@@ -24,6 +25,7 @@
 		87508DB12739D251003993C2 /* Gradients.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gradients.swift; sourceTree = "<group>"; };
 		876FA09D273E769000DCC2EE /* Icons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Icons.swift; sourceTree = "<group>"; };
 		876FA09F273E79B900DCC2EE /* Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Images.swift; sourceTree = "<group>"; };
+		876FA0A1273E7DA800DCC2EE /* Frames.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Frames.swift; sourceTree = "<group>"; };
 		87EAE2DA2739C68400AD31E2 /* Swiftful Thinking - Beginner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swiftful Thinking - Beginner.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		87EAE2DD2739C68400AD31E2 /* Swiftful_Thinking___BeginnerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Swiftful_Thinking___BeginnerApp.swift"; sourceTree = "<group>"; };
 		87EAE2DF2739C68400AD31E2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -68,6 +70,7 @@
 				87508DB12739D251003993C2 /* Gradients.swift */,
 				876FA09D273E769000DCC2EE /* Icons.swift */,
 				876FA09F273E79B900DCC2EE /* Images.swift */,
+				876FA0A1273E7DA800DCC2EE /* Frames.swift */,
 				87EAE2E12739C68500AD31E2 /* Assets.xcassets */,
 				87EAE2E32739C68500AD31E2 /* Preview Content */,
 			);
@@ -157,6 +160,7 @@
 				87508DB22739D251003993C2 /* Gradients.swift in Sources */,
 				876FA09E273E769000DCC2EE /* Icons.swift in Sources */,
 				87508DB02739CDF5003993C2 /* Colors.swift in Sources */,
+				876FA0A2273E7DA800DCC2EE /* Frames.swift in Sources */,
 				87EAE2DE2739C68400AD31E2 /* Swiftful_Thinking___BeginnerApp.swift in Sources */,
 				87508DAE2739CA82003993C2 /* Shapes.swift in Sources */,
 			);
