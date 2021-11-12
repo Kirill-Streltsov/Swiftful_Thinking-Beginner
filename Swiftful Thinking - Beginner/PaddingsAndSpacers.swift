@@ -9,29 +9,55 @@ import SwiftUI
 
 struct PaddingsAndSpacers: View {
     var body: some View {
-        VStack(alignment: .leading) {
-            Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
-                .background(Color.yellow)
-                .padding(.all, 10)
-                .padding(.leading, 20)
+        VStack {
+            Text("Spacers:")
+                .fontWeight(.bold)
+            VStack {
+                HStack {
+                    Spacer()
+                        .frame(height: 10)
+                        .background(Color.orange)
+                    Rectangle()
+                        .frame(width: 100, height: 100)
+                    Spacer()
+                        .frame(height: 10)
+                        .background(Color.orange)
+                    Rectangle()
+                        .fill(Color.red)
+                        .frame(width: 100, height: 100)
+                    Spacer()
+                        .frame(height: 10)
+                        .background(Color.orange)
+                }
                 .background(Color.blue)
-            Text("Hello, World!")
-                .font(.largeTitle)
-                .fontWeight(.semibold)
-                .frame(maxWidth: .infinity, alignment: .leading)
-                .padding(.bottom, 20)
-            Text("This an example of a multiline text. How can we make it pretty? Well, this is a great question. Just look at the code!")
+            }
+            Text("Padding:")
+                .fontWeight(.bold)
+            VStack(alignment: .leading) {
+                Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+                    .background(Color.yellow)
+                    .padding(.all, 10)
+                    .padding(.leading, 20)
+                    .background(Color.blue)
+                Text("Hello, World!")
+                    .font(.largeTitle)
+                    .fontWeight(.semibold)
+                    .frame(maxWidth: .infinity, alignment: .leading)
+                    .padding(.bottom, 20)
+                Text("This an example of a multiline text. How can we make it pretty? Well, this is a great question. Just look at the code!")
+            }
+            .padding()
+            .padding(.vertical, 30)
+            .background(
+                Color.white
+                    .cornerRadius(10)
+                    .shadow(color: Color.black.opacity(0.3),
+                            radius: 10,
+                            x: 0, y: 10)
+            )
+            .padding(.horizontal, 10)
         }
-        .padding()
-        .padding(.vertical, 30)
-        .background(
-            Color.white
-                .cornerRadius(10)
-                .shadow(color: Color.black.opacity(0.3),
-                        radius: 10,
-                        x: 0, y: 10)
-        )
-        .padding(.horizontal, 10)
+        
     }
 }
 
