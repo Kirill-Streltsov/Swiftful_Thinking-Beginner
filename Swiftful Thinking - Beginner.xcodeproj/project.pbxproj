@@ -15,6 +15,7 @@
 		876FA0A2273E7DA800DCC2EE /* Frames.swift in Sources */ = {isa = PBXBuildFile; fileRef = 876FA0A1273E7DA800DCC2EE /* Frames.swift */; };
 		876FA0A4273E81F600DCC2EE /* BackgroundsAndOverlays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 876FA0A3273E81F600DCC2EE /* BackgroundsAndOverlays.swift */; };
 		876FA0A6273E876A00DCC2EE /* Stacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 876FA0A5273E876A00DCC2EE /* Stacks.swift */; };
+		876FA0A8273E8C7200DCC2EE /* PaddingsAndSpacers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 876FA0A7273E8C7200DCC2EE /* PaddingsAndSpacers.swift */; };
 		87EAE2DE2739C68400AD31E2 /* Swiftful_Thinking___BeginnerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87EAE2DD2739C68400AD31E2 /* Swiftful_Thinking___BeginnerApp.swift */; };
 		87EAE2E02739C68400AD31E2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87EAE2DF2739C68400AD31E2 /* ContentView.swift */; };
 		87EAE2E22739C68500AD31E2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 87EAE2E12739C68500AD31E2 /* Assets.xcassets */; };
@@ -30,6 +31,7 @@
 		876FA0A1273E7DA800DCC2EE /* Frames.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Frames.swift; sourceTree = "<group>"; };
 		876FA0A3273E81F600DCC2EE /* BackgroundsAndOverlays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundsAndOverlays.swift; sourceTree = "<group>"; };
 		876FA0A5273E876A00DCC2EE /* Stacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stacks.swift; sourceTree = "<group>"; };
+		876FA0A7273E8C7200DCC2EE /* PaddingsAndSpacers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingsAndSpacers.swift; sourceTree = "<group>"; };
 		87EAE2DA2739C68400AD31E2 /* Swiftful Thinking - Beginner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swiftful Thinking - Beginner.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		87EAE2DD2739C68400AD31E2 /* Swiftful_Thinking___BeginnerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Swiftful_Thinking___BeginnerApp.swift"; sourceTree = "<group>"; };
 		87EAE2DF2739C68400AD31E2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 				876FA0A1273E7DA800DCC2EE /* Frames.swift */,
 				876FA0A3273E81F600DCC2EE /* BackgroundsAndOverlays.swift */,
 				876FA0A5273E876A00DCC2EE /* Stacks.swift */,
+				876FA0A7273E8C7200DCC2EE /* PaddingsAndSpacers.swift */,
 				87EAE2E12739C68500AD31E2 /* Assets.xcassets */,
 				87EAE2E32739C68500AD31E2 /* Preview Content */,
 			);
@@ -171,6 +174,7 @@
 				876FA0A2273E7DA800DCC2EE /* Frames.swift in Sources */,
 				87EAE2DE2739C68400AD31E2 /* Swiftful_Thinking___BeginnerApp.swift in Sources */,
 				87508DAE2739CA82003993C2 /* Shapes.swift in Sources */,
+				876FA0A8273E8C7200DCC2EE /* PaddingsAndSpacers.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
