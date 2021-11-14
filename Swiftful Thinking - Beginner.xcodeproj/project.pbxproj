@@ -20,6 +20,7 @@
 		87DB89802740843B0088999E /* ForEachTutorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87DB897F2740843B0088999E /* ForEachTutorial.swift */; };
 		87DB8982274088240088999E /* ScrollViewTutorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87DB8981274088240088999E /* ScrollViewTutorial.swift */; };
 		87DB898427408B6A0088999E /* Grids.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87DB898327408B6A0088999E /* Grids.swift */; };
+		87DB8986274091330088999E /* SafeAreas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87DB8985274091330088999E /* SafeAreas.swift */; };
 		87EAE2DE2739C68400AD31E2 /* Swiftful_Thinking___BeginnerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87EAE2DD2739C68400AD31E2 /* Swiftful_Thinking___BeginnerApp.swift */; };
 		87EAE2E02739C68400AD31E2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87EAE2DF2739C68400AD31E2 /* ContentView.swift */; };
 		87EAE2E22739C68500AD31E2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 87EAE2E12739C68500AD31E2 /* Assets.xcassets */; };
@@ -40,6 +41,7 @@
 		87DB897F2740843B0088999E /* ForEachTutorial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachTutorial.swift; sourceTree = "<group>"; };
 		87DB8981274088240088999E /* ScrollViewTutorial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewTutorial.swift; sourceTree = "<group>"; };
 		87DB898327408B6A0088999E /* Grids.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Grids.swift; sourceTree = "<group>"; };
+		87DB8985274091330088999E /* SafeAreas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreas.swift; sourceTree = "<group>"; };
 		87EAE2DA2739C68400AD31E2 /* Swiftful Thinking - Beginner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swiftful Thinking - Beginner.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		87EAE2DD2739C68400AD31E2 /* Swiftful_Thinking___BeginnerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Swiftful_Thinking___BeginnerApp.swift"; sourceTree = "<group>"; };
 		87EAE2DF2739C68400AD31E2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -92,6 +94,7 @@
 				87DB897F2740843B0088999E /* ForEachTutorial.swift */,
 				87DB8981274088240088999E /* ScrollViewTutorial.swift */,
 				87DB898327408B6A0088999E /* Grids.swift */,
+				87DB8985274091330088999E /* SafeAreas.swift */,
 				87EAE2E12739C68500AD31E2 /* Assets.xcassets */,
 				87EAE2E32739C68500AD31E2 /* Preview Content */,
 			);
@@ -181,6 +184,7 @@
 				876FA0A0273E79B900DCC2EE /* Images.swift in Sources */,
 				87EAE2E02739C68400AD31E2 /* ContentView.swift in Sources */,
 				87508DB22739D251003993C2 /* Gradients.swift in Sources */,
+				87DB8986274091330088999E /* SafeAreas.swift in Sources */,
 				876FA09E273E769000DCC2EE /* Icons.swift in Sources */,
 				87508DB02739CDF5003993C2 /* Colors.swift in Sources */,
 				87DB8982274088240088999E /* ScrollViewTutorial.swift in Sources */,
