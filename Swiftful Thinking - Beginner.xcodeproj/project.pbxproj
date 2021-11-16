@@ -23,6 +23,7 @@
 		876FA0A6273E876A00DCC2EE /* Stacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 876FA0A5273E876A00DCC2EE /* Stacks.swift */; };
 		876FA0A8273E8C7200DCC2EE /* PaddingsAndSpacers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 876FA0A7273E8C7200DCC2EE /* PaddingsAndSpacers.swift */; };
 		8775130E2741474B00BE1F66 /* States.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8775130D2741474B00BE1F66 /* States.swift */; };
+		87A4BCDA274441CE00ACC925 /* Transitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87A4BCD9274441CE00ACC925 /* Transitions.swift */; };
 		87DB897E27407F1A0088999E /* Initializers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87DB897D27407F1A0088999E /* Initializers.swift */; };
 		87DB89802740843B0088999E /* ForEachTutorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87DB897F2740843B0088999E /* ForEachTutorial.swift */; };
 		87DB8982274088240088999E /* ScrollViewTutorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87DB8981274088240088999E /* ScrollViewTutorial.swift */; };
@@ -52,6 +53,7 @@
 		876FA0A5273E876A00DCC2EE /* Stacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stacks.swift; sourceTree = "<group>"; };
 		876FA0A7273E8C7200DCC2EE /* PaddingsAndSpacers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingsAndSpacers.swift; sourceTree = "<group>"; };
 		8775130D2741474B00BE1F66 /* States.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = States.swift; sourceTree = "<group>"; };
+		87A4BCD9274441CE00ACC925 /* Transitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Transitions.swift; sourceTree = "<group>"; };
 		87DB897D27407F1A0088999E /* Initializers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Initializers.swift; sourceTree = "<group>"; };
 		87DB897F2740843B0088999E /* ForEachTutorial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachTutorial.swift; sourceTree = "<group>"; };
 		87DB8981274088240088999E /* ScrollViewTutorial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewTutorial.swift; sourceTree = "<group>"; };
@@ -119,6 +121,7 @@
 				8746214A2743373400B0B2E4 /* ConditionalStatements.swift */,
 				8746214C27433A4E00B0B2E4 /* Animations.swift */,
 				8746214E27433E6000B0B2E4 /* AnimationTiming.swift */,
+				87A4BCD9274441CE00ACC925 /* Transitions.swift */,
 				87EAE2E12739C68500AD31E2 /* Assets.xcassets */,
 				87EAE2E32739C68500AD31E2 /* Preview Content */,
 			);
@@ -224,6 +227,7 @@
 				87EAE2DE2739C68400AD31E2 /* Swiftful_Thinking___BeginnerApp.swift in Sources */,
 				8746214B2743373400B0B2E4 /* ConditionalStatements.swift in Sources */,
 				8775130E2741474B00BE1F66 /* States.swift in Sources */,
+				87A4BCDA274441CE00ACC925 /* Transitions.swift in Sources */,
 				87508DAE2739CA82003993C2 /* Shapes.swift in Sources */,
 				876FA0A8273E8C7200DCC2EE /* PaddingsAndSpacers.swift in Sources */,
 				8746214D27433A4E00B0B2E4 /* Animations.swift in Sources */,
