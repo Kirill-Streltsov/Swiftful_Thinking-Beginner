@@ -35,6 +35,7 @@
 		87DB4DD12745B66700B354A5 /* Toggles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87DB4DD02745B66700B354A5 /* Toggles.swift */; };
 		87DB4DD32745B7EB00B354A5 /* Pickers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87DB4DD22745B7EB00B354A5 /* Pickers.swift */; };
 		87DB4DD52745BB6200B354A5 /* ColorPickers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87DB4DD42745BB6200B354A5 /* ColorPickers.swift */; };
+		87DB4DD72745BCC600B354A5 /* DatePickers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87DB4DD62745BCC600B354A5 /* DatePickers.swift */; };
 		87DB897E27407F1A0088999E /* Initializers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87DB897D27407F1A0088999E /* Initializers.swift */; };
 		87DB89802740843B0088999E /* ForEachTutorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87DB897F2740843B0088999E /* ForEachTutorial.swift */; };
 		87DB8982274088240088999E /* ScrollViewTutorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87DB8981274088240088999E /* ScrollViewTutorial.swift */; };
@@ -76,6 +77,7 @@
 		87DB4DD02745B66700B354A5 /* Toggles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Toggles.swift; sourceTree = "<group>"; };
 		87DB4DD22745B7EB00B354A5 /* Pickers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pickers.swift; sourceTree = "<group>"; };
 		87DB4DD42745BB6200B354A5 /* ColorPickers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickers.swift; sourceTree = "<group>"; };
+		87DB4DD62745BCC600B354A5 /* DatePickers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickers.swift; sourceTree = "<group>"; };
 		87DB897D27407F1A0088999E /* Initializers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Initializers.swift; sourceTree = "<group>"; };
 		87DB897F2740843B0088999E /* ForEachTutorial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachTutorial.swift; sourceTree = "<group>"; };
 		87DB8981274088240088999E /* ScrollViewTutorial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewTutorial.swift; sourceTree = "<group>"; };
@@ -155,6 +157,7 @@
 				87DB4DD02745B66700B354A5 /* Toggles.swift */,
 				87DB4DD22745B7EB00B354A5 /* Pickers.swift */,
 				87DB4DD42745BB6200B354A5 /* ColorPickers.swift */,
+				87DB4DD62745BCC600B354A5 /* DatePickers.swift */,
 				87EAE2E12739C68500AD31E2 /* Assets.xcassets */,
 				87EAE2E32739C68500AD31E2 /* Preview Content */,
 			);
@@ -263,6 +266,7 @@
 				87DB898427408B6A0088999E /* Grids.swift in Sources */,
 				87DB4DD12745B66700B354A5 /* Toggles.swift in Sources */,
 				8746214F27433E6000B0B2E4 /* AnimationTiming.swift in Sources */,
+				87DB4DD72745BCC600B354A5 /* DatePickers.swift in Sources */,
 				87DB897E27407F1A0088999E /* Initializers.swift in Sources */,
 				87DB4DD52745BB6200B354A5 /* ColorPickers.swift in Sources */,
 				87DB4DCB2745AB7200B354A5 /* ContextMenu.swift in Sources */,
