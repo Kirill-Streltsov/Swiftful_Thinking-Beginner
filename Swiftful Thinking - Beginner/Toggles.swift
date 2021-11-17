@@ -13,7 +13,6 @@ struct Toggles: View {
     
     var body: some View {
         VStack {
-            
             Toggle(isOn: $toggleIsOn) {
                 Text(toggleIsOn ? "Toggle is on" : "Toggle is off")
             }
