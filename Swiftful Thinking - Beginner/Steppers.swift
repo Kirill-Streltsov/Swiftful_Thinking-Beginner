@@ -8,8 +8,29 @@
 import SwiftUI
 
 struct Steppers: View {
+    
+    @State var stepperValue = 10
+    @State var widthIncrement: CGFloat = 0
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        VStack {
+            Stepper("Stepper: \(stepperValue)", value: $stepperValue)
+                .padding()
+            RoundedRectangle(cornerRadius: 25)
+                .frame(width: 100 + widthIncrement, height: 100)
+            Stepper {
+                Text("Stepper 2")
+            } onIncrement: {
+                incrementWidth(amount: 100)
+            } onDecrement: {
+                incrementWidth(amount: -100)
+            }
+        }
+    }
+    func incrementWidth(amount: CGFloat) {
+        withAnimation(.easeInOut) {
+            widthIncrement += amount
+        }
     }
 }
 
