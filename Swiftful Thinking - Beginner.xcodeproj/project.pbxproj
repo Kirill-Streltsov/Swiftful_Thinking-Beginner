@@ -10,6 +10,7 @@
 		870240062752BAF800F877F4 /* OnAppearOnDisappear.swift in Sources */ = {isa = PBXBuildFile; fileRef = 870240052752BAF800F877F4 /* OnAppearOnDisappear.swift */; };
 		870240082752BE0300F877F4 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 870240072752BE0300F877F4 /* ViewModel.swift */; };
 		8702400A2752C75200F877F4 /* EnvironmentObjectBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 870240092752C75200F877F4 /* EnvironmentObjectBootcamp.swift */; };
+		8702400C2752CE5800F877F4 /* AppStorageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8702400B2752CE5800F877F4 /* AppStorageBootcamp.swift */; };
 		8714245B27481880009B0DA8 /* Sliders.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8714245A27481880009B0DA8 /* Sliders.swift */; };
 		8746214B2743373400B0B2E4 /* ConditionalStatements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8746214A2743373400B0B2E4 /* ConditionalStatements.swift */; };
 		8746214D27433A4E00B0B2E4 /* Animations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8746214C27433A4E00B0B2E4 /* Animations.swift */; };
@@ -58,6 +59,7 @@
 		870240052752BAF800F877F4 /* OnAppearOnDisappear.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppearOnDisappear.swift; sourceTree = "<group>"; };
 		870240072752BE0300F877F4 /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 		870240092752C75200F877F4 /* EnvironmentObjectBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentObjectBootcamp.swift; sourceTree = "<group>"; };
+		8702400B2752CE5800F877F4 /* AppStorageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorageBootcamp.swift; sourceTree = "<group>"; };
 		8714245A27481880009B0DA8 /* Sliders.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sliders.swift; sourceTree = "<group>"; };
 		8746214A2743373400B0B2E4 /* ConditionalStatements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalStatements.swift; sourceTree = "<group>"; };
 		8746214C27433A4E00B0B2E4 /* Animations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animations.swift; sourceTree = "<group>"; };
@@ -176,6 +178,7 @@
 				870240052752BAF800F877F4 /* OnAppearOnDisappear.swift */,
 				870240072752BE0300F877F4 /* ViewModel.swift */,
 				870240092752C75200F877F4 /* EnvironmentObjectBootcamp.swift */,
+				8702400B2752CE5800F877F4 /* AppStorageBootcamp.swift */,
 				87EAE2E12739C68500AD31E2 /* Assets.xcassets */,
 				87EAE2E32739C68500AD31E2 /* Preview Content */,
 			);
@@ -266,6 +269,7 @@
 				87A4BCDE2744510B00ACC925 /* NavigationViews.swift in Sources */,
 				876FA0A6273E876A00DCC2EE /* Stacks.swift in Sources */,
 				875CDD042742F35800A6895E /* Bindings.swift in Sources */,
+				8702400C2752CE5800F877F4 /* AppStorageBootcamp.swift in Sources */,
 				876FA0A0273E79B900DCC2EE /* Images.swift in Sources */,
 				875CDD002742EC6D00A6895E /* ExtractedFunctions.swift in Sources */,
 				87DB4DCD2745AED400B354A5 /* Textfields.swift in Sources */,

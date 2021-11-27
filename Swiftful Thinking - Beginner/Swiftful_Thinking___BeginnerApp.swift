@@ -6,7 +6,7 @@ import SwiftUI
 struct Swiftful_Thinking_Beginner: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AppStorageBootcamp()
         }
     }
 }
