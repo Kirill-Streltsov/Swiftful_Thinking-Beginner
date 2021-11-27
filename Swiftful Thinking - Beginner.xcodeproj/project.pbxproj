@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		870240062752BAF800F877F4 /* OnAppearOnDisappear.swift in Sources */ = {isa = PBXBuildFile; fileRef = 870240052752BAF800F877F4 /* OnAppearOnDisappear.swift */; };
 		870240082752BE0300F877F4 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 870240072752BE0300F877F4 /* ViewModel.swift */; };
+		8702400A2752C75200F877F4 /* EnvironmentObjectBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 870240092752C75200F877F4 /* EnvironmentObjectBootcamp.swift */; };
 		8714245B27481880009B0DA8 /* Sliders.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8714245A27481880009B0DA8 /* Sliders.swift */; };
 		8746214B2743373400B0B2E4 /* ConditionalStatements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8746214A2743373400B0B2E4 /* ConditionalStatements.swift */; };
 		8746214D27433A4E00B0B2E4 /* Animations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8746214C27433A4E00B0B2E4 /* Animations.swift */; };
@@ -56,6 +57,7 @@
 /* Begin PBXFileReference section */
 		870240052752BAF800F877F4 /* OnAppearOnDisappear.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppearOnDisappear.swift; sourceTree = "<group>"; };
 		870240072752BE0300F877F4 /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
+		870240092752C75200F877F4 /* EnvironmentObjectBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentObjectBootcamp.swift; sourceTree = "<group>"; };
 		8714245A27481880009B0DA8 /* Sliders.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sliders.swift; sourceTree = "<group>"; };
 		8746214A2743373400B0B2E4 /* ConditionalStatements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalStatements.swift; sourceTree = "<group>"; };
 		8746214C27433A4E00B0B2E4 /* Animations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animations.swift; sourceTree = "<group>"; };
@@ -173,6 +175,7 @@
 				8748F4C2274959E5004B9C7E /* TabsAndPages.swift */,
 				870240052752BAF800F877F4 /* OnAppearOnDisappear.swift */,
 				870240072752BE0300F877F4 /* ViewModel.swift */,
+				870240092752C75200F877F4 /* EnvironmentObjectBootcamp.swift */,
 				87EAE2E12739C68500AD31E2 /* Assets.xcassets */,
 				87EAE2E32739C68500AD31E2 /* Preview Content */,
 			);
@@ -273,6 +276,7 @@
 				87DB8986274091330088999E /* SafeAreas.swift in Sources */,
 				87DB8988274095560088999E /* Buttons.swift in Sources */,
 				87DB4DC72745A12400B354A5 /* Alerts.swift in Sources */,
+				8702400A2752C75200F877F4 /* EnvironmentObjectBootcamp.swift in Sources */,
 				876FA09E273E769000DCC2EE /* Icons.swift in Sources */,
 				87A4BCDC274446FC00ACC925 /* Sheets.swift in Sources */,
 				87C48CB52746BD7400C6894A /* Steppers.swift in Sources */,
