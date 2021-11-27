@@ -8,8 +8,31 @@
 import SwiftUI
 
 struct TabsAndPages: View {
+    
+    @State var selectedTab = 2
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        TabView(selection: $selectedTab) {
+            Text("Home Tab")
+                .tabItem {
+                    Image(systemName: "house.fill")
+                    Text("Home")
+                }
+                .tag(0)
+            Text("Browse Tab")
+                .tabItem {
+                    Image(systemName: "globe")
+                    Text("Browse")
+                }
+                .tag(1)
+            Text("Profile Tab")
+                .tabItem {
+                    Image(systemName: "person.fill")
+                    Text("Profile")
+                }
+                .tag(2)
+        }
+        
     }
 }
 
